@@ -1,0 +1,28 @@
+{
+  "name": "px-bot",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "PX",
+    "BOT"
+  ],
+  "homepage": "https://github.com/phamleson150-oss/PX-BOT#readme",
+  "bugs": {
+    "url": "https://github.com/phamleson150-oss/PX-BOT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamleson150-oss/PX-BOT.git"
+  },
+  "license": "ISC",
+  "author": "PX",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^17.2.3"
+  }
+}
