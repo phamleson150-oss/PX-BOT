@@ -38,4 +38,6 @@
 *.app
 
 # debug information files
-*.dwo
+*dwo
+node_modules
+*.env
